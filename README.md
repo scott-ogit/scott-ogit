@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scott-ogit
-- 🌱 I’m currently learning .NET at Tech Elevator Bootcamp
+- 🌱 I’m currently an Applications Engineer
 - 💞️ I’m looking to collaborate on ...
 
 <!---
